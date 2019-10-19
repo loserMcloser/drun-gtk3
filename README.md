@@ -1,5 +1,5 @@
 # drun-gtk3
-GTK3 port of drun
+GTK3 port of [drun](http://drun.sourceforge.net/)
 
 ## Gotchas
 
